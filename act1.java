@@ -27,7 +27,7 @@ public class act1 {
 //En sytem.out.println escribiremos el nombre de la dicha funcion. Por ejemplo: suma. Y en parentesis iran las variable que pidamos al usuario, esto hara que vaya en la posicion que esta.
 
       		  public static void main(String[] args){
-        		 Scanner sc=new Scanner(System.in);
+        		 Scanner sc = new Scanner(System.in);
 
         	 		System.out.println("Introduce el primer numero:");
         	 		float n1=sc.nextFloat();
