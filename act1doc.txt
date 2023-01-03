@@ -1,0 +1,20 @@
+Esta aplicación consiste en introducir 2 numeros, 
+lo cual seran cuatro diferentes resultados: suma, resta,
+multplicación y división.
+
+Se introducira el primer numero para calcular.
+
+Introduce el primer numero:
+10
+
+Se introducira el segundo numero para calcular.
+
+Introduce el segundo numero:
+2
+
+Resultados:
+
+El resultado de la suma es: 12
+El resultado de la resta es: 8
+El resultado de la multplicación es: 20
+El resultado de la división es: 5
